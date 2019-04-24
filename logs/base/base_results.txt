@@ -1,0 +1,32 @@
+Train Metrics: {
+  "best_epoch": 1,
+  "peak_cpu_memory_MB": 440.08,
+  "training_duration": "00:02:30",
+  "training_start_epoch": 0,
+  "training_epochs": 5,
+  "epoch": 5,
+  "training_accuracy": 0.9495552434456929,
+  "training_precision": 0.9493087557603687,
+  "training_recall": 0.9432234432234432,
+  "training_f1_measure": 0.9462563160311858,
+  "training_loss": 0.15745423776045275,
+  "training_cpu_memory_MB": 440.08,
+  "validation_accuracy": 0.3569482288828338,
+  "validation_precision": 0.30952380952380953,
+  "validation_recall": 0.2805755395683453,
+  "validation_f1_measure": 0.29433962264145946,
+  "validation_loss": 3.0997680357524326,
+  "best_validation_accuracy": 0.3823796548592189,
+  "best_validation_precision": 0.36619718309859156,
+  "best_validation_recall": 0.18705035971223022,
+  "best_validation_f1_measure": 0.24761904761900283,
+  "best_validation_loss": 1.3921869686671666
+}
+
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - Finished evaluating.
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - Metrics:
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - accuracy: 0.42036199095022625
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - precision: 0.35
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - recall: 0.15053763440860216
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - f1_measure: 0.21052631578943162
+2019-04-24 00:28:43,485 - INFO - allennlp.commands.evaluate - loss: 1.365219145161765
